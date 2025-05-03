@@ -1,6 +1,6 @@
-name: "❓ Help!"
-description: "Encountered a problem with Multiverse-NetherPortals? Not sure how to fix it?"
-labels: "Type: Assistance"
+name: "🐛 Report a Bug"
+description: "Report a Multiverse-NetherPortals bug. Only use this if you're 100% sure it's something wrong with Multiverse-NetherPortals - otherwise, try 'Help!'."
+labels: "Bug: Unconfirmed"
 
 body:
   - type: "markdown"
