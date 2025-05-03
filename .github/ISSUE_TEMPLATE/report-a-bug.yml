@@ -54,8 +54,8 @@ body:
       label: "I was able to reproduce my issue on a freshly setup and up-to-date server"
       description: "Please answer this truthfully."
       options:
-        - Yes
-        - No
+        - 'Yes'
+        - 'No'
     validations:
       required: true
   - type: "textarea"
